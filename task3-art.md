@@ -42,7 +42,7 @@ An *even more* complex example would be...
 ```
 INPUT:
 
-image_data = ["27B", "1B1|1B21-1B1 1B", "3B21-3B", "3B21-3B", "3B21-3B", "3B21-3B", "3B21-3B", "27B", "5B15-6B", "5B2-2B9-6B", "5B2-2B9-6B", "5B2-2B9-6B", "5B15-6B"]
+image_data = ["27B", "1B1|1B21-1B1 1B", "3B21-3B", "3B21-3B", "3B21-3B", "3B21-3B", "3B21-3B", "27B", "5B15-6B", "5B2-5B9-6B", "5B2-5B9-6B", "5B2-5B9-6B", "5B15-6B"]
 ``` 
 ```
 OUTPUT:
