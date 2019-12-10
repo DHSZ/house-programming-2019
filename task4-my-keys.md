@@ -40,4 +40,4 @@ Write a program that **lists all possible inputs** and **counts the total number
 
 When the user inputs their code, it is read as a hexadecimal number and then converted into a denary number.
 
-The correct passcode stored as a **denary number is 157**
+The correct passcode stored as a **denary number is 59**
