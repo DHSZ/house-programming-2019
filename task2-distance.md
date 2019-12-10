@@ -20,12 +20,12 @@ For example, your output may look something like this:
 ```
   |   A     B     C     D     E
 ---------------------------------
-A | 000km 205km 752km 830km 971km
-B | 205km 000km 547km 625km 776km
-C | 752km 547km 000km 078km 219km
-D | 830km 625km 078km 000km 141km
-E | 971km 776km 219km 141km 000km
+A |   0km 205km 752km 830km 971km
+B | 205km   0km 547km 625km 776km
+C | 752km 547km   0km  78km 219km
+D | 830km 625km  78km   0km 141km
+E | 971km 776km 219km 141km   0km
 ```
 
-## Bonus - Create a CSV
-Bonus points are available if you can also output your results as a CSV file!
+## Bonus - Output formatting
+Bonus points are available for the formatting of your output, if all rows and columns are aligned perfectly (like in the example) then you will receive the bonus points for this round.
