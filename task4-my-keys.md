@@ -34,6 +34,10 @@ Mr. Yim begins working through all of the possible conbinations:
 etc...
 ```
 
-Write a program that lists all possible inputs and counts the total number of conbinations Mr. Yim may need to try to get into the office.
+Write a program that **lists all possible inputs** and **counts the total number of conbinations** Mr. Yim may need to try to get into the office.
 
-## Bonus - 
+## Bonus - What is the correct number?!
+
+When the user inputs their code, it is read as a hexadecimal number and then converted into a denary number.
+
+The correct passcode stored as a **denary number is 189**
