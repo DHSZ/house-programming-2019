@@ -22,7 +22,7 @@ Mr. Yim remembers these facts about the passcode:
 - The first 2 characters are definitely numbers
 - The last character is a letter
 
-Mr. Yim begins working through all of the possible conbinations:
+Mr. Yim begins working through all of the possible combinations:
 ```
 00A
 00B
@@ -34,7 +34,7 @@ Mr. Yim begins working through all of the possible conbinations:
 etc...
 ```
 
-Write a program that **lists all possible inputs** and **counts the total number of conbinations** Mr. Yim may need to try to get into the office.
+Write a program that **lists all possible inputs** and **counts the total number of combinations** Mr. Yim may need to try to get into the office.
 
 ## Bonus - What is the correct number?!
 
