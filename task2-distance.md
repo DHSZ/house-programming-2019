@@ -10,7 +10,7 @@ The 5 cities (labelled A to E) that he will visit are as follows:
 - D. San Francisco
 - E. Sacramento - (Finish)
 
-When using the road, the distance from A (San Diego) to B (Los Angeles) is **205 km**. The distnace from B to C is **547 km**. C to D is **78 km**. Finally, the distance from D to E is **141 km**.
+When using the road, the distance from A (San Diego) to B (Los Angeles) is **205 km**. The distance from B to C is **547 km**. C to D is **78 km**. Finally, the distance from D to E is **141 km**.
 
 Mr Harrison would like a way of quickly checking the distance between any 2 cities he will visit on his trip, he refuses to travel on any other road.
 
