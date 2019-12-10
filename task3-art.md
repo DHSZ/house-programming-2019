@@ -2,7 +2,7 @@
 
 Ms. Adriaan loves to make ASCII art, but hates how much data her creations use.
 
-She has designed a way to compress her images by writting line as a series of numbers then symbols. Each line of the image is stored as an element in an array.
+She has designed a way to compress her images by writing each line as a pattern of numbers then symbols. Each line of the image is stored as an element in an array.
 
 For example:
 ```
@@ -66,4 +66,4 @@ Write the algorithm that will convert Ms. Adriaan's arrays of data into the corr
 
 ## Bonus - Save the art!
 
-Bonus points are available if you are able to save the created ASCII images as a .txt file
+Bonus points are available if your code automatically saves the created ASCII images as a .txt file
