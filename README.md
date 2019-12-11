@@ -1,61 +1,52 @@
 # House Programming 2019
-Welcome to this year's house coding competition.
 
-There are 4 tasks for you to try to work through. They can be attempted in any order.
+Thank you all for competiting in the House Programming Competition this year. The final results are as follows...
 
-Good luck!
+## Results
 
-```
-           .:/+ooossssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssooo+/-.           
-       `:oyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyo:`       
-     -oyyyyyyyo+:--..............................................................-:/+syyyyyyy+.     
-   .oyyyyys/-`                                                                        `-+yyyyyy+`   
-  :yyyyys:`                                                                              `:syyyys.  
- :yyyyy:`          /:.                                                     oso:.           `+yyyyy. 
-.yyyys.            oyyo                                                    -yyyo             :yyyys`
-+yyyy.             +yy/                                     +o+:`           syy-              :yyyy:
-yyyy/              oyy`                                     .syys`          oyy`               oyyyo
-yyyy.             `yy+   `                                   `/oo           oys                :yyyo
-yyyy              /yy/:+oss+-                                  ``           +yo                .yyyo
-yyyy     ---::/+ooyys+/:/yyyo           `.-.`                               +yo`..-:+oso/.     .yyyo
-yyyy     -+oo+:-.+yy.   `yys`::--.-:://+oyyyso:         ``       `.....-:://sys++//::/+yyyo.   .yyyo
-yyyy            .yy/    .yy: -yys:--.....-yyyy+        `oso/`    .syy+/:-...+y+        oyyy:   .yyyo
-yyyy           `oyo     /yy`  oyo         yyy+          .+yy+     :yy-      +y/        +yy+    .yyyo
-yyyy           +ys`     oys   :ys        `yys`            .:.  .   yy:     `+y+-::-    oyy.    .yyyo
-yyyy          /ys`     .yy/   `yy        .yy.                 -+   +y+  -/+oyyysso/`   yyy`    .yyyo
-yyyy        `/yo`      +yy.    sy`       /yo                 -y-   :yo  `.--oy/`      .yyo     .yyyo
-yyyy       `oy/       .yyo     +y:-://++osys-               -yo    .yy      +y:       /yy/     .yyyo
-yyyy      -so.   .`` `syy.     -y+/:::---...`              -yy.     sy`    `+y:``..` `yyy-     .yyyo
-yyyy    .+o-     .ssoyyy-       -                         -yy/      +y+/++oosyssssyy+oyyy`     .yyyo
-yyyy   :/.        -yyys.                                `/yys`      -y+--..```    `-yyyy/      .yyyo
-yyyy  `            //-                                  .yyy/        .              /yyo       .yyyo
-yyyy                                                     `+y-                       `o+`       .yyyo
-yyyy                                                       `                                   .yyyo
-yyyy                                                                                           .yyyo
-yyyy                                                                                           .yyyo
-yyyy                                                                                           .yyyo
-yyyy           ::    //       ``  ````                                `/+                      .yyyo
-yyyy           sy`  /ys      syyysssss+                             `/s+.                      .yyyo
-yyyy           `-   `-`      ``````````                            .so.                        .yyyo
-yyyy                                                               -:                          .yyyo
-yyyy                             .`                        .       .-`              ``         .yyyo
-yyyy         `o-   `:`         :sss+                +:    .y-    `+syo.     `-      o-         .yyyo
-yyyy         /y`   /y`       `os-`os               :y:    -y:   `os-:syo/:-:oy`    -y.      `` .yyyo
-yyyy         +y    sy       `oo`  oo      -.       oo     :y-  `os`  .y/+oo+sy`    sy`     -o` .yyyo
-yyyy         oy    ys      `os`  `y/     :s`      `y:     oy.  /y.   `y-    so    /sy`   `/s.  .yyyo
-yyyy         oy    yo     .sy:   /y/   `+o.       -y.   `+yy` `y/    :y`    y/   -s.y/ `-oo.   .yyyo
-yyyy         oy    ss   `:sss   :ssy:-/s+`        -y:`./o/oy  :y.   -y/    .y-  :s. +y+os:`    .yyyo
-yyyy         +y    +y-.-os-+s.-oo..osso-          `syss/. oo  -y+.-+y/     .y/-+s.  `/+:`      .yyyo
-yyyy         oy    `syyy+` -yss/`   ``             .:-`  `y/   +sss+-       oss+`              .yyyo
-yyyy`        os     `::.    .-`                          -y.    ..`         `.`                -yyyo
-yyyy:        y+                                   .      oo                                    +yyyo
-oyyyy`   `  :y-                                   o/`   :y-                                   -yyyy/
--yyyys` .oooy+                                    `+so+oy/                                   .yyyyy`
- /yyyys- `-:-                                       .-::.                                   :yyyyy: 
-  /yyyyy+.                                                                                -oyyyyy:  
-   -syyyyyo:`                                                                          `:oyyyyys.   
-    `:syyyyyyo/:-.``                                                            ``.-:+syyyyyys:     
-       -+yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyys+.       
-          .:+osyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyso/:.          
+### Totals
 
-```
+| House | Task 1 | Task 2 | Task 3 | Task 4 | Total |
+| --- | --- | --- | --- | --- | --- |
+| Raleigh | 5 | 8 | 8 | 0 | 21 |
+| Spenser | 0 | 8 | 8 | 0 | 16 |
+| Grenville | 0 | 5 | 0 | 8 | 13 |
+| Fan | 0 | 5 | 0 | 0 | 5 |
+
+## Task by task feedback
+
+### Task 1
+
+| House | Points | Bonus | Comments |
+| --- | --- | --- | --- |
+| Fan | 0 | 0 | Points were calculated correctly, but your output says 'Team A were the champions'. This should say 'Macclesfield were the champions.' |
+| Grenville | 0 | 0 | Python error, code did not run. *IndexError*: list index out of range line 14 | 
+| Raleigh | 5 | 0 | Correct winners named in the output, no bonus as the teams were not ordered by their points total
+| Spenser | 0 | 0 | Points calculation is correct, but doesn't name the winning team |
+
+### Task 2
+
+| House | Points | Bonus | Comments |
+| --- | --- | --- | --- |
+| Fan | 5 | 0 | Calculates the distances correctly and outputs as a table. The formatting of the table has some numbers out of line in some columns, no bonus. |
+| Grenville | 5 | 0 | Calculates the distances correctly and outputs as a table. The formatting of the table has some numbers out of line in some columns, no bonus. |
+| Raleigh | 5 | 3 | Calculates the distances correctly and outputs as a table. Data is nicely formatted and aligned. |
+| Spenser | 5 | 3 | Calculates the distances correctly and outputs as a table. Data is nicely formatted and aligned. |
+
+### Task 3
+
+| House | Points | Bonus | Comments |
+| --- | --- | --- | --- |
+| Fan | 0 | 0 | A valiant attempt, but your program should be able to input and convert all of the image data at once. This is making the user do all of the work each time. |
+| Grenville | 0 | 0 | Slight issue when processing the data for the 3rd image, the code does not output the 2nd line correctly (outputs 1 where a `space` should be) |
+| Raleigh | 5 | 3 | Is able to process the input data and output the correct ASCII art. Output data is saved as yourart.txt |
+| Spenser | 5 | 3 | Is able to process the input data and output the correct ASCII art. Output data is saved as Task3.txt |
+
+### Task 4
+
+| House | Points | Bonus | Comments |
+| --- | --- | --- | --- |
+| Fan | 0 | 0 | All possible combinations are listed correctly, but it does not advise the user how many different codes they would need to guess in total. |
+| Grenville | 5 | 3 | Lists all possible combinations. Correctly names there are 64 possible keys. Correctly identifies 03B as the correct code. |
+| Raleigh | 0 | 0 | Does not list all possible combinations correctly. Missing 00A, 00B, etc. |
+| Spenser | 0 | 0 | All possible combinations are listed correctly, but it does not advise the user how many different codes they would need to guess in total. |
